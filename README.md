@@ -15,5 +15,5 @@
 ## Syntax guide 
 * Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 * More Information
-[read01](Read01.md)
+[Read01](Read01.md)
 
